@@ -1,1 +1,1 @@
-Example Flutter application using streams, BLoCs, and SQLite. Read the article on Medium: [Using Streams, BLoCs, and SQLite in Flutter]()
+Example Flutter application using streams, BLoCs, and SQLite. Read the article on Medium: [Using Streams, BLoCs, and SQLite in Flutter](https://medium.com/p/using-streams-blocs-and-sqlite-in-flutter-2e59e1f7cdce)
